@@ -1,0 +1,13 @@
+:root{
+    --main-background:#FFE8AA;
+    --main-color:#806315;
+}
+body{
+    background-color: var(--main-background);
+    color:var(--main-color);
+    font-family: Times New Roman;
+}
+#content{
+    margin: 10px auto;
+    width: 90%;
+}
